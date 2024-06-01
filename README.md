@@ -1,5 +1,5 @@
-Chat-bot builded on Llama3 (8B) model.
-The project based on Krish Naik YuouTube video
+Chat-bot uses Llama3 (8B) model.
+The project based on Krish Naik YouTube video
 
 1) Add your own keys in ".env"
  GROQ_API_KEY="add your own key here"
